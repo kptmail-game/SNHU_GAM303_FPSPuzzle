@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/maps/TestEnvironment.umap",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/inputs/Input_Movement.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/inputs/Input_Look.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/inputs/Mapping_Player.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/player/BP_PlayerCont.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/player/BP_PlayerChar.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/player/BP_GameMode.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/interfaces/interface_interact.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/interactables/interact.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/inputs/Input_Interact.uasset",
+				"C:/Users/kp_th/OneDrive/Documents/Unreal Projects/SNHU_GAM303_Puzzle/GAM303_SNHU/GAM303_FPSPuzzle/Content/inputs/Input_Jump.uasset"
+			]
+		}
+	]
+}
