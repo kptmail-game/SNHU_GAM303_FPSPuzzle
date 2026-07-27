@@ -5,6 +5,10 @@
 *.uasset filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
 
+# Course documents — binary, never line-ending normalized
+*.xlsx binary
+*.docx binary
+
 # Common binary media, in case any get imported later
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
